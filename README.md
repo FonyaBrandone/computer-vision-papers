@@ -6,7 +6,7 @@ Relevant works and papers for image classification, object detection, image capt
 - #### VGG paper - Very Deep Convolutional Networks for Large-Scale Image Recognition (_By Visual Geometry Group, University of Oxford_) ☑
 - #### ResNet paper - Deep Residual Learning for Image Recognition (_By Microsoft Research team_) ☑
 - #### Vision Transformers (ViT) paper - An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale ☑
-- #### ConvNeXt paper - A ConvNet for the 2020s
+- #### A ConvNet for the 2020s ☑
 
 
 ## Object Detection
@@ -15,13 +15,10 @@ Relevant works and papers for image classification, object detection, image capt
 
 
 ## Image Captioning
-- #### Show and Tell: A Neural Image Caption Generator (By Google Team)
-
-
-## Scene Understanding
-- #### Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering
-- #### Mask R-CNN 
+- #### Show and Tell: A Neural Image Caption Generator (By Google Team) ☑
+- #### Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering ☑
 
 
 ## Image Segmentation
+- #### Mask R-CNN 
 - #### SAM paper - Segment Anything Model (By Google team)
