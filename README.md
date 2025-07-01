@@ -1,5 +1,5 @@
 # Computer Vision Papers
-Relevant works and papers for image classification, object detection, image captioning and Scene Understanding - Using Convolution networks, Deep Neural networks, Transformers etc
+Relevant works and papers for image classification, object detection, image captioning and Image Segmentation - Using Convolution networks, Deep Neural networks, Transformers etc
 
 ## Image Classification
 - #### CNN paper - (LeNet) - Gradient-Based Learning Applied to Document Recognition (_CNN Foundation paper by Yann LeCun_) ☑
