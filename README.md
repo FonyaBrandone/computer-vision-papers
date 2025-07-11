@@ -20,9 +20,9 @@ Relevant works and papers for image classification, object detection, image capt
 
 
 ## Image Segmentation
-- #### Mask R-CNN (Instance Segmentation)
-- #### SAM paper - Segment Anything Model, By Google team (Instance Segmentation)
-- #### U-Net, for medical imaging (Semantic Segmentation)
+- #### Mask R-CNN (Instance Segmentation) ☑
+- #### SAM paper - Segment Anything Model, By Google team (Instance Segmentation) ☑
+- #### U-Net, for medical imaging (Semantic Segmentation) ☑
 
 
 ## Depth Estimation (3D Vision)
