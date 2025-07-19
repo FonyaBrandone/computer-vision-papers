@@ -28,3 +28,20 @@ Relevant works and papers for image classification, object detection, image capt
 ## Depth Estimation (3D Vision)
 - #### MiDaS: Learning Robust Monocular Depth Estimation Combining Diverse Datasets
 - #### Monodepth2: Self-Supervised Monocular Depth Estimation with Left-Right Consistency
+
+
+## 3D Reconstruction
+- #### Mesh R-CNN paper
+- #### Occupancy networks paper
+- #### Neural Radiance Fields (NeRF paper)
+
+
+## Vision Language Transformers
+-
+- 
+
+## Generative AI
+- #### Generative Adversarial Networks (GANs paper)
+- #### Diffusion models paper
+- #### Autoencoders paper paper
+- #### Variational Autoencoders paper 
