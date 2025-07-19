@@ -36,7 +36,7 @@ Relevant works and papers for image classification, object detection, image capt
 - #### Neural Radiance Fields (NeRF paper)
 
 
-## Vision Language Transformers (VLMs)
+## Vision Language Models (VLMs)
 -
 - 
 
