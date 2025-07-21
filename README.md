@@ -41,7 +41,7 @@ Relevant works and papers for image classification, object detection, image capt
 - 
 
 ## Generative AI
-- #### Generative Adversarial Networks (GANs paper)
+- #### Generative Adversarial Networks (GANs paper) - (Implicit Probability density approach)
 - #### Diffusion models paper
-- #### Autoencoders paper paper
-- #### Variational Autoencoders paper 
+- #### Autoregressive Generative model paper - Explicit Probability density approach (Direct from training images - tractable density)
+- #### Variational Autoencoders paper - (Explicit Probability density approach - Approximate density)
