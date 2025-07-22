@@ -42,7 +42,7 @@ Relevant works and papers for image classification, object detection, image capt
 - #### BLIP paper: Bootstrapped language-image pretraining, 2022
 
 
-## Generative AI
+## Generative Models
 - #### Pixel Recurrent Neural Networks, by Google DeepMind, 2016 (Autoregressive Generative model paper) - Explicit Probability density approach (Direct from training images - tractable density)
 - #### Auto-Encoding Variational Bayes, 2013 (Variational Autoencoders paper) - (Explicit Probability density approach - Approximate density)
 - #### Generative Adversarial Nets, NeurIPS 2014 - Generative Adversarial Networks (GANs paper) - (Implicit Probability density approach)
