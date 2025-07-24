@@ -36,14 +36,24 @@ Relevant works and papers for image classification, object detection, image capt
 - #### Neural Radiance Fields (NeRF paper)
 
 
-## Vision Language Models (VLMs)
-- #### CLIP paper: "Learning Transferable Visual Models From Natural Language Supervision", 2020
-- #### Flamingo paper: "Flamingo: A Visual Language Model for Few-Shot Learning", 2022
-- #### BLIP paper: Bootstrapped language-image pretraining, 2022
+## Foundational Vision Language Models (VLMs)
+- #### CLIP paper: "Learning Transferable Visual Models From Natural Language Supervision", 2020 ☑
+- #### Flamingo paper: "Flamingo: A Visual Language Model for Few-Shot Learning", 2022 ☑
+- #### BLIP paper: Bootstrapped language-image pretraining, 2022 ☑
+
+
+## VLMs for Medical Imaging
+- #### MedCLIP paper: "MedCLIP: contrastive Learning from Unpaired Medical images and text" ☑
+- #### CONCH (CONtrastive learning from Captions for Histopathology): "A visual-language foundation model for computational pathology" ☑
+- #### KEEP paper: "A Knowledge-enhanced Pathology Vision-language Foundation Model for Cancer Diagnosis" ☑
 
 
 ## Generative Models
-- #### Pixel Recurrent Neural Networks, by Google DeepMind, 2016 ☑ (Autoregressive Generative model paper) - Explicit Probability density approach (Direct from training images - tractable density)
-- #### Auto-Encoding Variational Bayes, 2013 ☑ (Variational Autoencoders paper) - (Explicit Probability density approach - Approximate density)
+- #### Pixel Recurrent Neural Networks, by Google DeepMind, 2016 ☑ (Autoregressive Generative model paper) - Explicit Probability density approach (Direct from training images, employs tractable density)
+- #### Auto-Encoding Variational Bayes, 2013 ☑ (Variational Autoencoders paper) - (Explicit Probability density approach, Approximate density measurement)
 - #### Generative Adversarial Nets, NeurIPS 2014 ☑ - Generative Adversarial Networks (GANs paper) - (Implicit Probability density approach)
 - #### Denoising Diffusion Probabilistic Models (DDPM), 2020 ☑ - Diffusion models paper
+
+
+
+  
