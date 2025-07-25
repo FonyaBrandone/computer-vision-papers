@@ -40,8 +40,8 @@ I review, track, then document interesting and relevant works/papers for image c
 
 ## VLMs for Medical Imaging
 - #### MedCLIP paper: "MedCLIP: contrastive Learning from Unpaired Medical images and text" ☑
-- #### CONCH (CONtrastive learning from Captions for Histopathology): "A visual-language foundation model for computational pathology" ☑
-- #### KEEP paper: "A Knowledge-enhanced Pathology Vision-language Foundation Model for Cancer Diagnosis" ☑
+- #### MedicalNet paper ☑
+- #### MedBLIP paper ☑
 
 
 ## Depth Estimation (3D Vision)
