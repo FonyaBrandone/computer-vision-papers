@@ -1,5 +1,5 @@
 # Deep Learning, Computer Vision and Medical Imaging Papers
-I review, track, then document interesting and relevant works/papers for image classification, object detection, image captioning and Image Segmentation, Generative models, Vision-Language Models and 3D Vision - Using Convolution networks, Deep Neural networks, Transformer architectures
+I review, track, then document interesting and relevant works/papers for image classification, object detection, image captioning and Image Segmentation, Generative models, Vision-Language Models, 3D Vision and Medical Imaging - Using Convolution networks, Deep Neural networks, Transformer architectures
 
 ## Image Classification
 - #### CNN paper - (LeNet) - Gradient-Based Learning Applied to Document Recognition (_CNN Foundation paper by Yann LeCun_) ☑
@@ -39,8 +39,9 @@ I review, track, then document interesting and relevant works/papers for image c
 
 
 ## VLMs for Medical Imaging
-- #### MedCLIP paper: "MedCLIP: contrastive Learning from Unpaired Medical images and text" ☑
-- #### MedicalNet paper ☑
+- #### MedCLIP paper: "MedCLIP: contrastive Learning from Unpaired Medical images and text" ☑ (Extends CLIP pretraining by Decoupling image-text pairs not previously used to increase training size)
+- #### SAM-Med3D: Towards General-purpose Segmentation Models for Volumetric Medical Images ☑ (Uses prompt points for guided zero shot 3D segmentation) 
+- #### Text3DSAM: Text-Guided 3D Medical Image Segmentation Using SAM-Inspired Architecture ☑ (CVPR 2025 challenge winner) 
 - #### MedBLIP paper ☑
 
 
