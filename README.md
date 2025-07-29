@@ -40,9 +40,9 @@ I review, track, then document interesting and relevant works/papers for image c
 
 ## VLMs for Medical Imaging
 - #### MedCLIP paper: "MedCLIP: contrastive Learning from Unpaired Medical images and text" ☑ (Extends CLIP pretraining by Decoupling image-text pairs not previously used to increase training size)
-- #### SAM-Med3D: Towards General-purpose Segmentation Models for Volumetric Medical Images ☑ (Uses prompt points for guided zero shot 3D segmentation) 
+- #### SAM-Med3D: Towards General-purpose Segmentation Models for Volumetric Medical Images ☑ (Uses prompt points for guided 3D segmentation on Alzheimers dataset)
+- #### MedBLIP paper: "MedBLIP: Bootstrapping Language-Image Pre-training from 3D Medical Images and Texts" ☑
 - #### Text3DSAM: Text-Guided 3D Medical Image Segmentation Using SAM-Inspired Architecture ☑ (CVPR 2025 challenge winner) 
-- #### MedBLIP paper ☑
 
 
 ## Depth Estimation (3D Vision)
