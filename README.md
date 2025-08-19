@@ -55,4 +55,17 @@ I review, track, then document interesting and relevant works/papers for image c
 - #### Occupancy networks paper
 - #### Neural Radiance Fields (NeRF paper)
 
-  
+
+## _Conferences and Venues_
+- Medical Imaging with Deep Learning (MIDL) Conference
+- NeurIPS
+- ML4H
+- ICLR
+- International Conference on Pattern Recognition (ICPR)
+- ICCV
+- ECCV
+- ACL
+- CVPR
+- AAAI
+- ICML
+- IEEE-CVF International Conference on Computer Vision
