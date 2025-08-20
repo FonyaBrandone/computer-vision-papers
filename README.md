@@ -69,6 +69,9 @@ I review, track, then document interesting and relevant works/papers for image c
 - ICCV (IEEE-CVF International Conference on Computer Vision)
 - ECCV
 - AAAI
+  
+- Neurocomputing
+- IEEE Transactions on Medical Imaging
 
 | Conference | Acronym | Typical Submission Deadline | Typical Conference Date |
 | :--- | :--- | :--- | :--- |
