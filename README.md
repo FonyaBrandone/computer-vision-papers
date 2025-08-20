@@ -57,15 +57,33 @@ I review, track, then document interesting and relevant works/papers for image c
 
 
 ## _Conferences and Venues_
-- Medical Imaging with Deep Learning (MIDL) Conference
-- NeurIPS
-- ML4H
-- ICLR
-- International Conference on Pattern Recognition (ICPR)
-- ICCV
-- ECCV
-- ACL
-- CVPR
-- AAAI
+### A summary of top conferences for deep learning and medical imaging, including typical timelines.
+- NeurIPS 
 - ICML
-- IEEE-CVF International Conference on Computer Vision
+- ICLR
+- CVPR
+- MICCAI (International Conference on Medical Image Computing and Computer Assisted Intervention)
+- Medical Imaging with Deep Learning (MIDL) Conference
+- ML4H
+- International Conference on Pattern Recognition (ICPR)
+- ICCV (IEEE-CVF International Conference on Computer Vision)
+- ECCV
+- AAAI
+
+| Conference | Acronym | Typical Submission Deadline | Typical Conference Date |
+| :--- | :--- | :--- | :--- |
+| **Neural Information Processing Systems** | NeurIPS | Early May (Abstract) / Mid-May (Full) | Early December |
+| **International Conference on Machine Learning** | ICML | Late January / Early February | Late July |
+| **International Conference on Learning Representations** | ICLR | Late September / Early October | Early May |
+| **Conference on Computer Vision and Pattern Recognition** | CVPR | Mid-November | Mid-June |
+| **International Conference on Computer Vision** | ICCV | Mid-March | Mid-October (odd years) |
+| **European Conference on Computer Vision** | ECCV | Early March | Late October (even years) |
+| **AAAI Conference on Artificial Intelligence** | AAAI | Early September | End of February |
+| **Medical Image Computing and Computer Assisted Intervention** | MICCAI | Early March | Mid-October |
+| **Medical Imaging with Deep Learning** | MIDL | Mid-February | Early July |
+| **International Symposium on Biomedical Imaging** | ISBI | Mid-November | April / May |
+| **Machine Learning for Health** _(Symposium)_ | ML4H | Late August | Early December |
+
+**N/B:** Dates are based on historical patterns.
+
+
